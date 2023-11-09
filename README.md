@@ -1,5 +1,9 @@
 # Hamza Shafiq
 Student at [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/default.aspx), doing M.S./M.Phil., Mathematics. Currently doing research in the field of **Mathematical Modeling/Mathematical Biology** under the kind supervision of [Dr. Sadia Arshad](https://lahore.comsats.edu.pk/Employees/807). I am interested in all things data and machine learning systems.
+#### **You can reach me at:**
+[Github](https://github.com/hamza811998), [Kaggle](https://www.kaggle.com/hamza811998), [LinkedIn](https://www.linkedin.com/in/hamza811998/), [Facebook](https://www.facebook.com/hamza811998/), [Twitter](https://twitter.com/hamza811998), [Instagram](https://www.instagram.com/hamza811998/)
+#### **Place your Orders at:** [Fiverr](https://www.fiverr.com/s/agNoNQ)
+- **Email**: [hamza811998shafiq@gmail.com](hamza811998shafiq@gmail.com)
 
 ## Portfolio
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
@@ -56,6 +60,3 @@ Traffic sign classification is an important task for self-driving cars. In this 
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
 - [Data Science Blog](https://medium.com/@shawhin)
-
-### Hobbies
-I am also an [Urdu poet](https://www.facebook.com/hamza811998). In my free time, I like to read, write, hike, travel, and explore different music genres.

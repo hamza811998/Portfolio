@@ -1,12 +1,13 @@
-# Hamza Shafiq
+# Portfolio
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+
+## About me
 Student at [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/default.aspx), doing M.S./M.Phil., Mathematics. Currently doing research in the field of **Mathematical Modeling/Mathematical Biology** under the kind supervision of [Dr. Sadia Arshad](https://lahore.comsats.edu.pk/Employees/807). I am interested in all things data and machine learning systems.
+
 #### **You can reach me at:**
 [Github](https://github.com/hamza811998), [Kaggle](https://www.kaggle.com/hamza811998), [LinkedIn](https://www.linkedin.com/in/hamza811998/), [Facebook](https://www.facebook.com/hamza811998/), [Twitter](https://twitter.com/hamza811998), [Instagram](https://www.instagram.com/hamza811998/)
 #### **Place your Orders at:** [Fiverr](https://www.fiverr.com/s/agNoNQ)
 - **Email**: [hamza811998shafiq@gmail.com](hamza811998shafiq@gmail.com)
-
-## Portfolio
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 ## Education								       		
 - M.S./M.Phil., Mathematics	| [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/default.aspx) (_2021 - Present_)

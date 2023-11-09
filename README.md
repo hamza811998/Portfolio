@@ -42,7 +42,7 @@ Traffic sign classification is an important task for self-driving cars. In this 
 <!-- ![Bike Study](/assets/img/bike_study.jpeg) -->
 
 ## Conferences / Seminars
-- [Mathematical Modeling and Scientific Computing for Industrial Research](https://github.com/hamza811998/hamza811998.gihub.io/blob/main/assets/Images/MMSCIR%20International%20Conference%202022.png) - International Conference, 2022
+- Mathematical Modeling and Scientific Computing for Industrial Research - International Conference, [(MMSCIR-2022)](https://github.com/hamza811998/hamza811998.gihub.io/blob/main/assets/Images/MMSCIR%20International%20Conference%202022.png)
 
 <!--
 ## Publications

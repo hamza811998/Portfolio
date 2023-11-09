@@ -28,8 +28,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
-- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), MATLAB, SQL, C++
+- **Tools**: MySQL, Tableau, Power BI, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel, MiniConda
 
 ## Projects
 ### [Traffic Sign Classification Using Deep Learning](https://github.com/hamza811998/P-03-Traffic_Sign_Classification_Using_Deep_Learning)
@@ -41,13 +41,8 @@ Traffic sign classification is an important task for self-driving cars. In this 
 
 <!-- ![Bike Study](/assets/img/bike_study.jpeg) -->
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Conferences / Seminars
+- ![Mathematical Modeling and Scientific Computing for Industrial Research](/assets/Images/MMSCIR International Conference 2022.png) - International Conference, 2022
 
 <!--
 ## Publications

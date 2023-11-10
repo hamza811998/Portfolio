@@ -34,13 +34,47 @@ Student at [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/
 
 ## Projects
 ### [Traffic Sign Classification Using Deep Learning](https://github.com/hamza811998/P-03-Traffic_Sign_Classification_Using_Deep_Learning)
-Traffic sign classification is an important task for self-driving cars. In this project, the dataset contains 43 different classes of images. This project understand the theory and intuition behind Deep Learning and Convolutional Neural Networks (CNNs). Import Key python libraries, dataset and perform image visualization. Perform image normalization and convert images from color-scaled to gray-scaled. Build a Convolutional Neural Network using Keras with Tensorflow 2.0 as a back-end. Compile and fit Deep Convolutional Neural Network model to training data. Assess the performance of trained Convolutional Neural Network model and ensure its generalization using various KPIs.
+Traffic sign classification is an important task for self-driving cars. In this project, the dataset contains 43 different classes of images. The project understands the theory and intuition behind Deep Learning and Convolutional Neural Networks (CNNs). Imports key Python libraries, datasets, and performs image visualization. Performs image normalization and converts images from color-scaled to gray-scaled. Builds a Convolutional Neural Network using Keras with Tensorflow 2.0 as a back-end. Compiles and fit Deep Convolutional Neural Network model to training data. Assess the performance of the trained Convolutional Neural Network model and ensure its generalization using various KPIs.
 
 <!-- ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg) -->
 
 ### [Tracking Objects in Video with Particle Filters](https://github.com/hamza811998/P-05-Tracking_Objects_in_Video_with_Particle_Filters)
+**Project Structure**
+- Load video frames
+- Display video frames
+- Initialize a particle filter
+- Compute errors
+- Compute weights and resample
+- Apply noise
+- Optimize the particle filter
 
 <!-- ![Bike Study](/assets/img/bike_study.jpeg) -->
+
+### [Climate Geospatial Analysis on Python with Xarray](https://github.com/hamza811998/P-04-Climate_Geospatial_Analysis_on_Python_with_Xarray)
+**Project Structure**
+- Load and getting familiar with NetCDF 
+datasets
+- Select and filter data through coordinates
+- Visualize multidimensional and geospatial 
+variables
+- Apply simple operations over 
+multidimensional data
+-  Apply grouped operations over 
+multidimensional data
+- Merge and concatenate datasets
+- Interact with Pandas and export datasets <br>
+
+**References**
+- [Copernicus website](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land-monthlymeans?tab=overview) - there's a lot of climate data!
+- [Xarray documentation](http://xarray.pydata.org/en/stable/)
+
+### [Sentimental Analysis on COVID-19 Tweets using python](https://github.com/hamza811998/P-06-Sentimental_Analysis_on_COVID-19_Tweets_using_python)
+**Project Structure**
+- Introduction and Loading our Dataset
+- Text preprocessing 
+- Let’s Explore our Date
+- Sentimental Analysis
+- Visualizing the Result
 
 ## Conferences / Seminars
 - Mathematical Modeling and Scientific Computing for Industrial Research - International Conference, [(MMSCIR-2022)](https://github.com/hamza811998/hamza811998.gihub.io/blob/main/assets/img/MMSCIR%20International%20Conference%202022.png)

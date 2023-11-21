@@ -1,5 +1,5 @@
 # Portfolio
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on a regular basis.
 
 ## About me
 Student at [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/default.aspx), doing M.S./M.Phil., Mathematics. Currently doing research in the field of **Mathematical Modeling/Mathematical Biology** under the kind supervision of [Dr. Sadia Arshad](https://lahore.comsats.edu.pk/Employees/807). I am interested in all things data and machine learning systems.
@@ -18,11 +18,11 @@ Student at [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/
 <!--
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Uncovered and corrected missing steps in the production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in a 50% improvement in model performance and saved 1 million dollars in potential losses
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Conducted data collection, processing, and analysis for a novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 -->
 
@@ -34,7 +34,7 @@ Student at [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/
 
 ## Projects
 ### [Traffic Sign Classification Using Deep Learning](https://github.com/hamza811998/P-03-Traffic_Sign_Classification_Using_Deep_Learning)
-Traffic sign classification is an important task for self-driving cars. In this project, the dataset contains 43 different classes of images. The project understands the theory and intuition behind Deep Learning and Convolutional Neural Networks (CNNs). Imports key Python libraries, datasets, and performs image visualization. Performs image normalization and converts images from color-scaled to gray-scaled. Builds a Convolutional Neural Network using Keras with Tensorflow 2.0 as a back-end. Compiles and fit Deep Convolutional Neural Network model to training data. Assess the performance of the trained Convolutional Neural Network model and ensure its generalization using various KPIs.
+Traffic sign classification is an important task for self-driving cars. In this project, the dataset contains 43 different classes of images. The project understands the theory and intuition behind Deep Learning and Convolutional Neural Networks (CNNs). Imports key Python libraries, and datasets, and performs image visualization. Performs image normalization and converts images from color-scaled to gray-scaled. Builds a Convolutional Neural Network using Keras with Tensorflow 2.0 as a back-end. Compiles and fits Deep Convolutional Neural Network model to training data. Assess the performance of the trained Convolutional Neural Network model and ensure its generalization using various KPIs.
 
 <!-- ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg) -->
 
@@ -43,7 +43,7 @@ Traffic sign classification is an important task for self-driving cars. In this 
 - Load video frames
 - Display video frames
 - Initialize a particle filter
-- Compute errors
+- Computing errors
 - Compute weights and resample
 - Apply noise
 - Optimize the particle filter
@@ -94,6 +94,48 @@ multidimensional data
     - [Data Collection and Processing with Python](https://www.coursera.org/account/accomplishments/certificate/58TZ3FVYGBYL)
     - [Python Classes and Inheritance](https://www.coursera.org/account/accomplishments/certificate/ZN9N9NVXQX2C)
     - [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/account/accomplishments/certificate/D8TMF2YYGX6W)
+- [IBM Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JD84AL2Q639T)
+    - [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/AJAKVWSWBH97)
+    - [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/JTKUTE443SMX)
+    - [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/BLLR4XXD4NF4)
+    - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/AKJ68GNNWSSZ)
+    - [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/88G6H7JTCDGA)
+    - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/9G4M8W9YL47Y)
+    - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/W8WWSXP8JWU4)
+    - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/9U98LDF3YLP5)
+    - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/53N2WP4JXUTF)
+    - [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/N7BZ4L2DYJP9)
+- [Mathematics for Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/FVRHWELWRBQC)
+    - [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/6U7UAS2CWGEG)
+    - [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/T2AS659X68SH)
+    - [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/certificate/BD952T6D47SS)
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BV9EKWGR7JPZ)
+    - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/XQG68MSG6F5W)
+    - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/Y6MK8A3TCSHH)
+    - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/FGGZ2QSYKTHF)
+- [IBM Applied AI Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RWEWV7V59P8M)
+    - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/certificate/5J96YL9E3PQC)
+    - [Getting Started with AI using IBM Watson](https://www.coursera.org/account/accomplishments/certificate/42DMNW8DB96B)
+    - [Building AI Powered Chatbots Without Programming](https://www.coursera.org/account/accomplishments/certificate/Z4SUKGXAVJ6J)
+    - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/AKJ68GNNWSSZ)
+    - [Developing AI Applications with Python and Flask](https://www.coursera.org/account/accomplishments/certificate/RVG883MZ5S2E)
+    - [Building AI Applications with Watson APIs](https://www.coursera.org/account/accomplishments/certificate/K492AEXHU2E6)
+- [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/D2XM7E5LPQY2)
+    - [Introduction to HTML5](https://www.coursera.org/account/accomplishments/certificate/PVELMWPQ26ZV)
+    - [Introduction to CSS3](https://www.coursera.org/account/accomplishments/certificate/U6XWYN7GVNBP)
+    - [Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/certificate/U6JH6M6SWFX2)
+    - [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/certificate/MZANK69BENW3)
+    - [Web Design for Everybody Capstone](https://www.coursera.org/account/accomplishments/certificate/5F3PFQ2M994T)
+- [IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RHAG3ZMVLTGE)
+    - [Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/X363E8VGENYM)
+    - [Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/DGGTAWEX7Q9H)
+    - [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/certificate/34TBUK285QN7)
+    - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/AKJ68GNNWSSZ)
+    - [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/88G6H7JTCDGA)
+    - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/9G4M8W9YL47Y)
+    - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/W8WWSXP8JWU4)
+    - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/9U98LDF3YLP5)
+    - [IBM Data Analyst Capstone Project](https://www.coursera.org/account/accomplishments/certificate/FHDR6MPNDJWX)
 - [DevOps on AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/AGU6M7587C7C)
     - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/59UUGFR5K3FH)
     - [DevOps on AWS: Code, Build, and Test](https://www.coursera.org/account/accomplishments/certificate/2WTLBZS9VMGK)
@@ -126,4 +168,60 @@ multidimensional data
     - [Introduction to Python Fundamentals](https://www.coursera.org/account/accomplishments/certificate/UN3XJMLAMSQS)
     - [Introduction to Python Functions](https://www.coursera.org/account/accomplishments/certificate/FWXWS6D9JNBU)
     - [Python Packages for Data Science](https://www.coursera.org/account/accomplishments/certificate/42JDWXZNWUQ7)
+- [Database Design and Operational Business Intelligence](https://www.coursera.org/account/accomplishments/specialization/certificate/9V5PGPSGSXWD)
+    - [The Nature of Data and Relational Database Design](https://www.coursera.org/account/accomplishments/certificate/4CMQFDFNQMDV)
+    - [Data Warehousing and Business Intelligence](https://www.coursera.org/account/accomplishments/certificate/CQ83UAAYA9N4)
+    - [Business Intelligence and Visual Analytics](https://www.coursera.org/account/accomplishments/certificate/BY3YAY5NZ4X6)
+- [Self-Driving Cars]()
+    - [Introduction to Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/WGUPJL2F6R7G)
+    - [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/TVNHQAMZ6G7A)
+    - [Visual Perception for Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/QTNFLBB7SGLH)
+    - [Motion Planning for Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/75A743GDUMFC)
+- [Data Analysis and Visualization Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/4P8NCE2GM7DH)
+    - [Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/X363E8VGENYM)
+    - [Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/DGGTAWEX7Q9H)
+    - [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/certificate/34TBUK285QN7)
+    - [Assessment for Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/certificate/WNYMN84GXHA7)
+- [Introduction to Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/7NBJQAQXKL3H)
+    - [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/AJAKVWSWBH97)
+    - [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/JTKUTE443SMX)
+    - [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/BLLR4XXD4NF4)
+    - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/9G4M8W9YL47Y)
+- [Applied Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/NM5JEFJ9L38L)
+    - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/AKJ68GNNWSSZ)
+    - [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/88G6H7JTCDGA)
+    - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/W8WWSXP8JWU4)
+    - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/9U98LDF3YLP5)
+    - [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/N7BZ4L2DYJP9)
+- [IBM AI Foundations for Business Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/3SHWKV7F6YBC)
+    - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/certificate/5J96YL9E3PQC)
+    - [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/AJAKVWSWBH97)
+    - [The AI Ladder: A Framework for Deploying AI in your Enterprise](https://www.coursera.org/account/accomplishments/certificate/B8QX9EG8BEX3)
+- []()
+    - []()
+
 ## Other Certificates
+- [Interactive Word Embeddings using Word2Vec and Plotly](https://www.coursera.org/account/accomplishments/certificate/HGUKQ2CSREJ6)
+- [Predicting the Weather with Artificial Neural Networks](https://www.coursera.org/account/accomplishments/certificate/XATFV2ACP9U2)
+- [Image Super Resolution Using Autoencoders in Keras](https://www.coursera.org/account/accomplishments/certificate/HTEQ6N794VAS)
+- [Data Visualization with Plotly Express](https://www.coursera.org/account/accomplishments/certificate/H2CVEUYC8DH5)
+- [Time Series Data Visualization And Analysis Techniques](https://www.coursera.org/account/accomplishments/certificate/PTBE5K6JVSUM)
+- [Neural Network Visualizer Web App with Python](https://www.coursera.org/account/accomplishments/certificate/E7DH599TV42V)
+- [Classification of COVID19 using Chest X-ray Images in Keras](https://www.coursera.org/account/accomplishments/certificate/66NL88NJZ3KW)
+- [Access Bioinformatics Databases with Biopython](https://www.coursera.org/account/accomplishments/certificate/D9UGWW5J6GYX)
+- [Sentimental Analysis on COVID-19 Tweets using python](https://www.coursera.org/account/accomplishments/certificate/WLYXEKJM6ZCJ)
+- [Compare time series predictions of COVID-19 deaths](https://www.coursera.org/account/accomplishments/certificate/39QQVYPZQUT9)
+- [Climate Geospatial Analysis on Python with Xarray](https://www.coursera.org/account/accomplishments/certificate/E7VRACTHEUD7)
+- [COVID19 Data Analysis Using Python](https://www.coursera.org/account/accomplishments/certificate/3BMFUFJQN2DT)
+- [Tracking Objects in Video with Particle Filters](https://www.coursera.org/account/accomplishments/certificate/9MUPD4JGXZWM)
+- [Traffic Sign Classification Using Deep Learning in Python/Keras](https://www.coursera.org/account/accomplishments/certificate/R6P8YW7S28LX)
+- [Exploratory Data Analysis With Python and Pandas](https://www.coursera.org/account/accomplishments/certificate/V89WDURU7AW2)
+- [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/certificate/KVR72XHBMD8M)
+- [Exploratory Data Analysis with Seaborn](https://www.coursera.org/account/accomplishments/certificate/8FTG2CFMVQ5Q)
+- [Reverse and complement nucleic acid sequences (DNA, RNA) using Python](https://www.coursera.org/account/accomplishments/certificate/FKWYG929HZDF)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()

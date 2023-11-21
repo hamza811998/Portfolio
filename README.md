@@ -122,5 +122,8 @@ multidimensional data
     - [Data Analytics Methods for Marketing](https://www.coursera.org/account/accomplishments/certificate/JRDHS8NS48GB)
     - [Marketing Analytics with Meta](https://www.coursera.org/account/accomplishments/certificate/6ZAUTWRUZB77)
     - [Meta Marketing Science Certification Exam](https://www.coursera.org/account/accomplishments/certificate/QRGL8C83799W)
-
+- [Expressway to Data Science: Python Programming](https://www.coursera.org/account/accomplishments/specialization/certificate/R89EJNKG57T7)
+    - [Introduction to Python Fundamentals](https://www.coursera.org/account/accomplishments/certificate/UN3XJMLAMSQS)
+    - [Introduction to Python Functions](https://www.coursera.org/account/accomplishments/certificate/FWXWS6D9JNBU)
+    - [Python Packages for Data Science](https://www.coursera.org/account/accomplishments/certificate/42JDWXZNWUQ7)
 ## Other Certificates

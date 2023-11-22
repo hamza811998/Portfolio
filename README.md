@@ -200,7 +200,7 @@ multidimensional data
 20. []()
     - []()
 
-## Other Certificates
+## Project Certificates
 1. [Interactive Word Embeddings using Word2Vec and Plotly](https://www.coursera.org/account/accomplishments/certificate/HGUKQ2CSREJ6)
 2. [Predicting the Weather with Artificial Neural Networks](https://www.coursera.org/account/accomplishments/certificate/XATFV2ACP9U2)
 3. [Image Super Resolution Using Autoencoders in Keras](https://www.coursera.org/account/accomplishments/certificate/HTEQ6N794VAS)
@@ -219,3 +219,6 @@ multidimensional data
 16. [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/certificate/KVR72XHBMD8M)
 17. [Exploratory Data Analysis with Seaborn](https://www.coursera.org/account/accomplishments/certificate/8FTG2CFMVQ5Q)
 18. [Reverse and complement nucleic acid sequences (DNA, RNA) using Python](https://www.coursera.org/account/accomplishments/certificate/FKWYG929HZDF)
+
+## Other Certificates
+1.

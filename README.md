@@ -105,7 +105,7 @@ multidimensional data
     - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/9U98LDF3YLP5)
     - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/53N2WP4JXUTF)
     - [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/N7BZ4L2DYJP9)
-3.[Mathematics for Machine Learning (University of Washington)](https://www.coursera.org/account/accomplishments/specialization/certificate/ZXJ6CUCEG57J)
+3. [Mathematics for Machine Learning (University of Washington)](https://www.coursera.org/account/accomplishments/specialization/certificate/ZXJ6CUCEG57J)
     - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/certificate/M9YS3TWKWVK9)
     - [Machine Learning: Regression](https://www.coursera.org/account/accomplishments/certificate/JSBD4AMC93FU)
     - [Machine Learning: Classification](https://www.coursera.org/account/accomplishments/certificate/8QVX2D432VAR)

@@ -249,6 +249,7 @@ multidimensional data
 17. [Exploratory Data Analysis with Seaborn](https://www.coursera.org/account/accomplishments/certificate/8FTG2CFMVQ5Q)
 18. [Reverse and complement nucleic acid sequences (DNA, RNA) using Python](https://www.coursera.org/account/accomplishments/certificate/FKWYG929HZDF)
 19. [Decryption with Python](https://www.coursera.org/account/accomplishments/certificate/ULVLFQ3TM9YF)
+20. [A Geometrical Approach to Genome Analysis: Skew & Z-Curve](https://www.coursera.org/account/accomplishments/verify/KZRSREMKS2T4)
 
 ## Other Certificates
 1.

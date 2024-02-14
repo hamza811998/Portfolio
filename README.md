@@ -252,4 +252,4 @@ multidimensional data
 20. [A Geometrical Approach to Genome Analysis: Skew & Z-Curve](https://www.coursera.org/account/accomplishments/verify/KZRSREMKS2T4)
 
 ## Other Certificates
-1.
+1.[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/HUZF5RAX5NF7)

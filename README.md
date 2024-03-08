@@ -2,7 +2,7 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated regularly.
 
 ## About me
-Student at [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/default.aspx), doing M.S./M.Phil., Mathematics. I've done research in the field of **Mathematical Modeling/Mathematical Biology** under the supervision of [**Dr. Sadia Arshad**](https://lahore.comsats.edu.pk/Employees/807). My research topic was **Dynamical Analysis of the Epidemic Models of COVID-19 and Influenza**. I am interested in all things data and machine learning systems.
+Student at [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/default.aspx), doing M.S./M.Phil., Mathematics. I've done research in the field of *Mathematical Modeling/Mathematical Biology* under the supervision of [Dr. Sadia Arshad](https://lahore.comsats.edu.pk/Employees/807). My research topic was ***Dynamical Analysis of the Epidemic Models of COVID-19 and Influenza***. I am interested in all things data and machine learning systems.
 
 #### **You can reach me at:**
 [Github](https://github.com/hamza811998), [Kaggle](https://www.kaggle.com/hamza811998), [LinkedIn](https://www.linkedin.com/in/hamza811998/), [Facebook](https://www.facebook.com/hamza811998/), [Twitter](https://twitter.com/hamza811998), [Instagram](https://www.instagram.com/hamza811998/)

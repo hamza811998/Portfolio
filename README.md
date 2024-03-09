@@ -252,4 +252,10 @@ multidimensional data
 20. [A Geometrical Approach to Genome Analysis: Skew & Z-Curve](https://www.coursera.org/account/accomplishments/verify/KZRSREMKS2T4)
 
 ## Other Certificates
-1.[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/HUZF5RAX5NF7)
+1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/HUZF5RAX5NF7)
+2. [Heron's Formula & Complex Problem Soloutions](https://www.udemy.com/certificate/UC-8c34909c-e8b1-4b49-82c5-0c77aa4d36a2/)
+3. [The Complete SEO Guide: SEO For Beginner to Expert 2024](https://www.udemy.com/certificate/UC-df9407e3-5204-42dd-a630-eb61a4280367/)
+4. [Quantitative Aptitude for CAT/XAT/CSAT/SSC CGL/GATE/GRE-2021](https://www.udemy.com/certificate/UC-e0d5ed5e-78b6-446b-992c-6b30fb5ff6b2/)
+5. [Wordpress For Beginners](https://www.udemy.com/certificate/UC-8c0fbe5c-d8de-4f01-ab21-80ef70f69ac1/)
+6. [Introduction to Forex- learn to trade forex by yourself](https://www.udemy.com/certificate/UC-ab6cd8ff-923d-4a35-87e5-f08f68d5e774/)
+7. []()

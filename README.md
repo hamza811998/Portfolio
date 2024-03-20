@@ -85,8 +85,8 @@ multidimensional data
 3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
 -->
 
-## Specialization Certificates
-
+## Coursera
+### Specialization Certificates
 1. [Python 3 Programming Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/HH84NE5JU5Q4)
     - [Python Basics](https://www.coursera.org/account/accomplishments/certificate/RHM7JGEGTY63)
     - [Python Functions, Files, and Dictionaries](https://www.coursera.org/account/accomplishments/certificate/RC88H8CV22ZK)
@@ -227,8 +227,9 @@ multidimensional data
     - []()
 27. []()
     - []()
-
-## Project Certificates
+### Other Certificates
+1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/HUZF5RAX5NF7)
+### Project Certificates
 1. [Interactive Word Embeddings using Word2Vec and Plotly](https://www.coursera.org/account/accomplishments/certificate/HGUKQ2CSREJ6)
 2. [Predicting the Weather with Artificial Neural Networks](https://www.coursera.org/account/accomplishments/certificate/XATFV2ACP9U2)
 3. [Image Super Resolution Using Autoencoders in Keras](https://www.coursera.org/account/accomplishments/certificate/HTEQ6N794VAS)
@@ -250,40 +251,44 @@ multidimensional data
 19. [Decryption with Python](https://www.coursera.org/account/accomplishments/certificate/ULVLFQ3TM9YF)
 20. [A Geometrical Approach to Genome Analysis: Skew & Z-Curve](https://www.coursera.org/account/accomplishments/verify/KZRSREMKS2T4)
 
-## Other Certificates
-1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/HUZF5RAX5NF7)
-
 ## Udemy Certificates
-1. [Complete Python and Machine Learning in Financial Analysis](https://www.udemy.com/certificate/UC-cca4c401-2c1e-47e3-9c3e-6c50f8cd9305/)
-2. [Python & TensorFlow: Deep Dive into Machine Learning](https://www.udemy.com/certificate/UC-fd98a99f-d44b-4dee-b9a5-c50f1f4b292a/)
-3. [Data Visualization with Python and New Methods in Matplotlib](https://www.udemy.com/certificate/UC-8a5b729a-0284-4a97-a97d-e4580117c2bf/)
-4. [Data Science Career Path](https://www.udemy.com/certificate/UC-c508ac74-096e-42a1-a588-ee20122b0bb2/)
-5. [Python Development & Data Science: Variables and Data Types](https://www.udemy.com/certificate/UC-090ba45a-fd45-4404-bdc6-6fccae1b8251/)
+### Data Science
+1. [Data Science Career Path](https://www.udemy.com/certificate/UC-c508ac74-096e-42a1-a588-ee20122b0bb2/)
+2. [Data Visualization with Python and New Methods in Matplotlib](https://www.udemy.com/certificate/UC-8a5b729a-0284-4a97-a97d-e4580117c2bf/)
+3. [Python Development & Data Science: Variables and Data Types](https://www.udemy.com/certificate/UC-090ba45a-fd45-4404-bdc6-6fccae1b8251/)
+4. [Big Data Hadoop Course](https://www.udemy.com/certificate/UC-abbd888f-369f-46fd-89df-0b94645f88a2/)
+5. [10 data science projects 2024](https://www.udemy.com/certificate/UC-96f67950-3d52-4366-bdfc-c4cb87b2a924/)
+### Machine Learning & Deep Learning
+1. [Machine Learning Online Course](https://www.udemy.com/certificate/UC-d138861e-7de5-4105-af12-0c5e51e501a7/)
+2. [Complete Python and Machine Learning in Financial Analysis](https://www.udemy.com/certificate/UC-cca4c401-2c1e-47e3-9c3e-6c50f8cd9305/)
+3. [Python & TensorFlow: Deep Dive into Machine Learning](https://www.udemy.com/certificate/UC-fd98a99f-d44b-4dee-b9a5-c50f1f4b292a/)
+4. [Emotion Detection Machine Learning Project Using YOLOv7](https://www.udemy.com/certificate/UC-9003be79-f36e-4b5e-a99b-e4cc435a5210/)
+5. [Python for Deep Learning: Build Neural Networks in Python](https://www.udemy.com/certificate/UC-8c5ffccb-6d7c-400b-bfbd-f86faeca98da/)
 6. [2024 Deployment of Machine Learning Models in Production](https://www.udemy.com/certificate/UC-f36a5a89-b257-4ca6-96e4-b7ec1e2e13f2/)
-7. [Artificial General Intelligence (AGI)](https://www.udemy.com/certificate/UC-ef979635-ba18-4c69-b8e5-324da8d0fce1/)
-8. [Machine Learning Online Course](https://www.udemy.com/certificate/UC-d138861e-7de5-4105-af12-0c5e51e501a7/)
-9. [HTML 5 With Quizzes And Python 3 Complete Course](https://www.udemy.com/certificate/UC-9c5c5e56-896e-4d91-97af-87f3095bee8b/)
-10. [Python for Deep Learning: Build Neural Networks in Python](https://www.udemy.com/certificate/UC-8c5ffccb-6d7c-400b-bfbd-f86faeca98da/)
-11. [3 real world deep learning projects](https://www.udemy.com/certificate/UC-cee19b86-c01b-4410-9d9b-5873a8a7a97a/)
-12. [Emotion Detection Machine Learning Project Using YOLOv7](https://www.udemy.com/certificate/UC-9003be79-f36e-4b5e-a99b-e4cc435a5210/)
-13. [Big Data Hadoop Course](https://www.udemy.com/certificate/UC-abbd888f-369f-46fd-89df-0b94645f88a2/)
-14. [Asteroids with Python PyGame](https://www.udemy.com/certificate/UC-c0561504-6284-4a98-9633-bbb5a8165d8a/)
-15. [10 data science projects 2024](https://www.udemy.com/certificate/UC-96f67950-3d52-4366-bdfc-c4cb87b2a924/)
-16. [15 machine learning projects 2024](https://www.udemy.com/certificate/UC-fcb17cda-62eb-4d0b-ac00-59d51238313b/)
-17. [Web Development Masterclass - Online Certification Course](https://www.udemy.com/certificate/UC-2cca1209-9d6b-4abc-a453-c16998c26993/)
-18. [Web Automation and Scraping using Python](https://www.udemy.com/certificate/UC-d77195af-1ee9-4662-a70d-d90c16c880a5/)
-19. [Python for beginners - Learn all the basics of Python](https://www.udemy.com/certificate/UC-992a2c9e-e5f2-4c07-bae0-dd82479b93e3/)
-20. [Heron's Formula & Complex Problem Soloutions](https://www.udemy.com/certificate/UC-8c34909c-e8b1-4b49-82c5-0c77aa4d36a2/)
-21. [The Complete SEO Guide: SEO For Beginner to Expert 2024](https://www.udemy.com/certificate/UC-df9407e3-5204-42dd-a630-eb61a4280367/)
-22. [Quantitative Aptitude for CAT/XAT/CSAT/SSC CGL/GATE/GRE-2021](https://www.udemy.com/certificate/UC-e0d5ed5e-78b6-446b-992c-6b30fb5ff6b2/)
-23. [Wordpress For Beginners](https://www.udemy.com/certificate/UC-8c0fbe5c-d8de-4f01-ab21-80ef70f69ac1/)
-24. [Learn Elementor & WordPress, for Startups & Freelancers](https://www.udemy.com/certificate/UC-3b441ba2-6c68-418a-912d-02081dd7cabf/)
-25. [Complete Wordpress Website Developer Course](https://www.udemy.com/certificate/UC-cc40e612-93fe-434a-a3fb-031c9d134c07/)
-26. [SEO - The Complete SEO Course Beginners to Advanced 2023](https://www.udemy.com/certificate/UC-1e2b8c21-ea82-495e-9258-3cad8bcd7a9f/)
-27. [Introduction to Forex- learn to trade forex by yourself](https://www.udemy.com/certificate/UC-ab6cd8ff-923d-4a35-87e5-f08f68d5e774/)
-28. [Google Docs Ultimate Guide](https://www.udemy.com/certificate/UC-bfd6fa82-582d-4872-b3f7-c90ef9f49bcf/)
-29. [Intro To Basic Video Creation](https://www.udemy.com/certificate/UC-e6dae792-6534-4576-914d-5bb1749f37d0/)
-30. [Fiverr HACKS to Become a Top 1% Freelancer in 2023](https://www.udemy.com/certificate/UC-6b70b356-6594-431b-b717-841bfc49f88b/)
-31. [Blogging For Beginners: Start a Blog Discover Passive Income](https://www.udemy.com/certificate/UC-3fa50eb1-5500-40d7-ac56-4c3717848628/)
-32. [Wondershare Filmora 11 Video Editing Course in Hindi](https://www.udemy.com/certificate/UC-7c753426-ae35-41d2-a666-bbfe88ad7fe1/)
-33. [Photo Editing With Free Software](https://www.udemy.com/certificate/UC-48f678bd-00f7-41a5-bb3e-300c44d372e5/)
+7. [15 machine learning projects 2024](https://www.udemy.com/certificate/UC-fcb17cda-62eb-4d0b-ac00-59d51238313b/)
+8. [3 real world deep learning projects](https://www.udemy.com/certificate/UC-cee19b86-c01b-4410-9d9b-5873a8a7a97a/)
+### Artificial Intelligence
+1. [Artificial General Intelligence (AGI)](https://www.udemy.com/certificate/UC-ef979635-ba18-4c69-b8e5-324da8d0fce1/)
+### Python Programming & Web Development
+1. [Python for beginners - Learn all the basics of Python](https://www.udemy.com/certificate/UC-992a2c9e-e5f2-4c07-bae0-dd82479b93e3/)
+2. [HTML 5 With Quizzes And Python 3 Complete Course](https://www.udemy.com/certificate/UC-9c5c5e56-896e-4d91-97af-87f3095bee8b/)
+3. [Web Automation and Scraping using Python](https://www.udemy.com/certificate/UC-d77195af-1ee9-4662-a70d-d90c16c880a5/)
+4. [Web Development Masterclass - Online Certification Course](https://www.udemy.com/certificate/UC-2cca1209-9d6b-4abc-a453-c16998c26993/)
+5. [Asteroids with Python PyGame](https://www.udemy.com/certificate/UC-c0561504-6284-4a98-9633-bbb5a8165d8a/)
+### WordPress and SEO
+1. [Wordpress For Beginners](https://www.udemy.com/certificate/UC-8c0fbe5c-d8de-4f01-ab21-80ef70f69ac1/)
+2. [Learn Elementor & WordPress, for Startups & Freelancers](https://www.udemy.com/certificate/UC-3b441ba2-6c68-418a-912d-02081dd7cabf/)
+3. [Complete Wordpress Website Developer Course](https://www.udemy.com/certificate/UC-cc40e612-93fe-434a-a3fb-031c9d134c07/)
+4. [SEO - The Complete SEO Course Beginners to Advanced 2023](https://www.udemy.com/certificate/UC-1e2b8c21-ea82-495e-9258-3cad8bcd7a9f/)
+5. [The Complete SEO Guide: SEO For Beginner to Expert 2024](https://www.udemy.com/certificate/UC-df9407e3-5204-42dd-a630-eb61a4280367/)
+6. [Blogging For Beginners: Start a Blog Discover Passive Income](https://www.udemy.com/certificate/UC-3fa50eb1-5500-40d7-ac56-4c3717848628/)
+### Graphic Designing
+1. [Photo Editing With Free Software](https://www.udemy.com/certificate/UC-48f678bd-00f7-41a5-bb3e-300c44d372e5/)
+2. [Intro To Basic Video Creation](https://www.udemy.com/certificate/UC-e6dae792-6534-4576-914d-5bb1749f37d0/)
+3. [Wondershare Filmora 11 Video Editing Course in Hindi](https://www.udemy.com/certificate/UC-7c753426-ae35-41d2-a666-bbfe88ad7fe1/)
+### Other Certificates
+1. [Quantitative Aptitude for CAT/XAT/CSAT/SSC CGL/GATE/GRE-2021](https://www.udemy.com/certificate/UC-e0d5ed5e-78b6-446b-992c-6b30fb5ff6b2/)
+2. [Introduction to Forex- learn to trade forex by yourself](https://www.udemy.com/certificate/UC-ab6cd8ff-923d-4a35-87e5-f08f68d5e774/)
+3. [Google Docs Ultimate Guide](https://www.udemy.com/certificate/UC-bfd6fa82-582d-4872-b3f7-c90ef9f49bcf/)
+4. [Fiverr HACKS to Become a Top 1% Freelancer in 2023](https://www.udemy.com/certificate/UC-6b70b356-6594-431b-b717-841bfc49f88b/)
+5. [Heron's Formula & Complex Problem Soloutions](https://www.udemy.com/certificate/UC-8c34909c-e8b1-4b49-82c5-0c77aa4d36a2/)

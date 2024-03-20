@@ -14,6 +14,16 @@ Student at [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/
 - M.Sc., Mathematics | [PMAS Arid Agriculture University Rawalpindi](https://www.uaar.edu.pk/index.php) (_2018 - 2022_)
 - B.Sc., Maths A-Course, Maths A-Course, Physics | [University of Gujrat](https://uog.edu.pk/main.php) (_2015 - 2017_)
 
+## Core Competencies
+
+- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), MATLAB, SQL, C++
+- **Tools**: MySQL, Tableau, Power BI, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel, MiniConda
+
+## Conferences / Seminars
+- Mathematical Modeling and Scientific Computing for Industrial Research, ([International Conference (MMSCIR-2022)](https://github.com/hamza811998/hamza811998.gihub.io/blob/main/assets/img/MMSCIR%20International%20Conference%202022.png))
+- One Day [International Symposium](https://github.com/hamza811998/Portfolio/blob/main/assets/img/One%20Day%20International%20Symposium%20on%20Mathematical%20Sciences.jpg) on Mathematical Sciences
+
 <!--
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
@@ -24,12 +34,6 @@ Student at [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/
 - Conducted data collection, processing, and analysis for a novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 -->
-
-## Core Competencies
-
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), MATLAB, SQL, C++
-- **Tools**: MySQL, Tableau, Power BI, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel, MiniConda
 
 ## Projects
 ### [Traffic Sign Classification Using Deep Learning](https://github.com/hamza811998/P-03-Traffic_Sign_Classification_Using_Deep_Learning)
@@ -74,10 +78,6 @@ multidimensional data
 - Let’s Explore our Date
 - Sentimental Analysis
 - Visualizing the Result
-
-## Conferences / Seminars
-- Mathematical Modeling and Scientific Computing for Industrial Research, ([International Conference (MMSCIR-2022)](https://github.com/hamza811998/hamza811998.gihub.io/blob/main/assets/img/MMSCIR%20International%20Conference%202022.png))
-- One Day [International Symposium](https://github.com/hamza811998/Portfolio/blob/main/assets/img/One%20Day%20International%20Symposium%20on%20Mathematical%20Sciences.jpg) on Mathematical Sciences
 
 <!--
 ## Publications

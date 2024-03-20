@@ -76,7 +76,8 @@ multidimensional data
 - Visualizing the Result
 
 ## Conferences / Seminars
-- Mathematical Modeling and Scientific Computing for Industrial Research, [(MMSCIR-2022)](https://github.com/hamza811998/hamza811998.gihub.io/blob/main/assets/img/MMSCIR%20International%20Conference%202022.png) - International Conference
+- Mathematical Modeling and Scientific Computing for Industrial Research, ([International Conference (MMSCIR-2022)](https://github.com/hamza811998/hamza811998.gihub.io/blob/main/assets/img/MMSCIR%20International%20Conference%202022.png))
+- One Day [International Symposium](https://github.com/hamza811998/Portfolio/blob/main/assets/img/One%20Day%20International%20Symposium%20on%20Mathematical%20Sciences.jpg) on Mathematical Sciences
 
 <!--
 ## Publications

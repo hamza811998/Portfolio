@@ -248,8 +248,9 @@ multidimensional data
     - [Get Started with Spreadsheet Applications: Excel](https://www.coursera.org/account/accomplishments/certificate/X4PZDYYYEU8P)
     - [Get Started with Messaging & Collaboration Apps: Teams/Zoom](https://www.coursera.org/account/accomplishments/certificate/HH72JY7ATBVM)
 
-### Other Certificates
-1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/HUZF5RAX5NF7)
+### Certificates
+1. [Introduction to Complex Analysis (Wesleyan University)](https://www.coursera.org/account/accomplishments/certificate/2VMRVYRZHNKF)
+2. [Neural Networks and Deep Learning (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/certificate/HUZF5RAX5NF7)
 
 ### Project Certificates
 1. [Interactive Word Embeddings using Word2Vec and Plotly](https://www.coursera.org/account/accomplishments/certificate/HGUKQ2CSREJ6)

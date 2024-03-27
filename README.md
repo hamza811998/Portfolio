@@ -296,11 +296,12 @@ multidimensional data
 3. [Wondershare Filmora 11 Video Editing Course in Hindi](https://www.udemy.com/certificate/UC-7c753426-ae35-41d2-a666-bbfe88ad7fe1/)
 
 ### Other Certificates
-1. [Quantitative Aptitude for CAT/XAT/CSAT/SSC CGL/GATE/GRE-2021](https://www.udemy.com/certificate/UC-e0d5ed5e-78b6-446b-992c-6b30fb5ff6b2/)
-2. [Introduction to Forex- learn to trade forex by yourself](https://www.udemy.com/certificate/UC-ab6cd8ff-923d-4a35-87e5-f08f68d5e774/)
-3. [Google Docs Ultimate Guide](https://www.udemy.com/certificate/UC-bfd6fa82-582d-4872-b3f7-c90ef9f49bcf/)
-4. [Fiverr HACKS to Become a Top 1% Freelancer in 2023](https://www.udemy.com/certificate/UC-6b70b356-6594-431b-b717-841bfc49f88b/)
-5. [Heron's Formula & Complex Problem Soloutions](https://www.udemy.com/certificate/UC-8c34909c-e8b1-4b49-82c5-0c77aa4d36a2/)
+1. [E-Commerce Mastery: SEO, ChatGPT, & 28 Converting Templates](https://www.udemy.com/certificate/UC-0e244a16-2595-4239-bd57-9e233b072f8c/)
+2. [Quantitative Aptitude for CAT/XAT/CSAT/SSC CGL/GATE/GRE-2021](https://www.udemy.com/certificate/UC-e0d5ed5e-78b6-446b-992c-6b30fb5ff6b2/)
+3. [Introduction to Forex- learn to trade forex by yourself](https://www.udemy.com/certificate/UC-ab6cd8ff-923d-4a35-87e5-f08f68d5e774/)
+4. [Google Docs Ultimate Guide](https://www.udemy.com/certificate/UC-bfd6fa82-582d-4872-b3f7-c90ef9f49bcf/)
+5. [Fiverr HACKS to Become a Top 1% Freelancer in 2023](https://www.udemy.com/certificate/UC-6b70b356-6594-431b-b717-841bfc49f88b/)
+6. [Heron's Formula & Complex Problem Soloutions](https://www.udemy.com/certificate/UC-8c34909c-e8b1-4b49-82c5-0c77aa4d36a2/)
 
 ## Simplilearn
 1. [Introduction to Artificial Intelligence](https://simpli-web.app.link/e/YZX0rKuYgIb)

@@ -275,12 +275,15 @@ multidimensional data
 ### Artificial Intelligence
 1. [Artificial General Intelligence (AGI)](https://www.udemy.com/certificate/UC-ef979635-ba18-4c69-b8e5-324da8d0fce1/)
 
+### PyGame
+1. [Create snake with Python PyGame](https://www.udemy.com/certificate/UC-8b37026c-ead8-4bce-ad02-130cc95462e9/)
+2. [Asteroids with Python PyGame](https://www.udemy.com/certificate/UC-c0561504-6284-4a98-9633-bbb5a8165d8a/)
+
 ### Python Programming & Web Development
 1. [Python for beginners - Learn all the basics of Python](https://www.udemy.com/certificate/UC-992a2c9e-e5f2-4c07-bae0-dd82479b93e3/)
 2. [HTML 5 With Quizzes And Python 3 Complete Course](https://www.udemy.com/certificate/UC-9c5c5e56-896e-4d91-97af-87f3095bee8b/)
 3. [Web Automation and Scraping using Python](https://www.udemy.com/certificate/UC-d77195af-1ee9-4662-a70d-d90c16c880a5/)
 4. [Web Development Masterclass - Online Certification Course](https://www.udemy.com/certificate/UC-2cca1209-9d6b-4abc-a453-c16998c26993/)
-5. [Asteroids with Python PyGame](https://www.udemy.com/certificate/UC-c0561504-6284-4a98-9633-bbb5a8165d8a/)
 
 ### WordPress and SEO
 1. [Wordpress For Beginners](https://www.udemy.com/certificate/UC-8c0fbe5c-d8de-4f01-ab21-80ef70f69ac1/)
@@ -290,18 +293,24 @@ multidimensional data
 5. [The Complete SEO Guide: SEO For Beginner to Expert 2024](https://www.udemy.com/certificate/UC-df9407e3-5204-42dd-a630-eb61a4280367/)
 6. [Blogging For Beginners: Start a Blog Discover Passive Income](https://www.udemy.com/certificate/UC-3fa50eb1-5500-40d7-ac56-4c3717848628/)
 
+### E-Commerce
+1. [E-Commerce Mastery: SEO, ChatGPT, & 28 Converting Templates](https://www.udemy.com/certificate/UC-0e244a16-2595-4239-bd57-9e233b072f8c/)
+
+### Freelancing
+1. [Fiverr HACKS to Become a Top 1% Freelancer in 2023](https://www.udemy.com/certificate/UC-6b70b356-6594-431b-b717-841bfc49f88b/)
+2. [Upwork Beginner Course: Win Freelance World](https://www.udemy.com/certificate/UC-b4fb2a87-ecc2-4e27-94cf-2657d280f479/)
+
 ### Graphic Designing
-1. [Photo Editing With Free Software](https://www.udemy.com/certificate/UC-48f678bd-00f7-41a5-bb3e-300c44d372e5/)
-2. [Intro To Basic Video Creation](https://www.udemy.com/certificate/UC-e6dae792-6534-4576-914d-5bb1749f37d0/)
-3. [Wondershare Filmora 11 Video Editing Course in Hindi](https://www.udemy.com/certificate/UC-7c753426-ae35-41d2-a666-bbfe88ad7fe1/)
+1. [Python Video Processing](https://www.udemy.com/certificate/UC-93868458-77e0-4bde-a700-3b21791da087/)
+2. [Photo Editing With Free Software](https://www.udemy.com/certificate/UC-48f678bd-00f7-41a5-bb3e-300c44d372e5/)
+3. [Intro To Basic Video Creation](https://www.udemy.com/certificate/UC-e6dae792-6534-4576-914d-5bb1749f37d0/)
+4. [Wondershare Filmora 11 Video Editing Course in Hindi](https://www.udemy.com/certificate/UC-7c753426-ae35-41d2-a666-bbfe88ad7fe1/)
 
 ### Other Certificates
-1. [E-Commerce Mastery: SEO, ChatGPT, & 28 Converting Templates](https://www.udemy.com/certificate/UC-0e244a16-2595-4239-bd57-9e233b072f8c/)
-2. [Quantitative Aptitude for CAT/XAT/CSAT/SSC CGL/GATE/GRE-2021](https://www.udemy.com/certificate/UC-e0d5ed5e-78b6-446b-992c-6b30fb5ff6b2/)
-3. [Introduction to Forex- learn to trade forex by yourself](https://www.udemy.com/certificate/UC-ab6cd8ff-923d-4a35-87e5-f08f68d5e774/)
-4. [Google Docs Ultimate Guide](https://www.udemy.com/certificate/UC-bfd6fa82-582d-4872-b3f7-c90ef9f49bcf/)
-5. [Fiverr HACKS to Become a Top 1% Freelancer in 2023](https://www.udemy.com/certificate/UC-6b70b356-6594-431b-b717-841bfc49f88b/)
-6. [Heron's Formula & Complex Problem Soloutions](https://www.udemy.com/certificate/UC-8c34909c-e8b1-4b49-82c5-0c77aa4d36a2/)
+1. [Quantitative Aptitude for CAT/XAT/CSAT/SSC CGL/GATE/GRE-2021](https://www.udemy.com/certificate/UC-e0d5ed5e-78b6-446b-992c-6b30fb5ff6b2/)
+2. [Introduction to Forex- learn to trade forex by yourself](https://www.udemy.com/certificate/UC-ab6cd8ff-923d-4a35-87e5-f08f68d5e774/)
+3. [Google Docs Ultimate Guide](https://www.udemy.com/certificate/UC-bfd6fa82-582d-4872-b3f7-c90ef9f49bcf/)
+4. [Heron's Formula & Complex Problem Soloutions](https://www.udemy.com/certificate/UC-8c34909c-e8b1-4b49-82c5-0c77aa4d36a2/)
 
 ## Simplilearn
 1. [Introduction to Artificial Intelligence](https://simpli-web.app.link/e/YZX0rKuYgIb)
